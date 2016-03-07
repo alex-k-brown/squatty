@@ -1,0 +1,101 @@
+* {
+  vertical-align: top;
+
+}
+
+#header {
+  vertical-align: top;
+  background: #4bb7b6;
+  width: 100%;
+  padding: 20px;
+
+  .inner {
+    width: 60%;
+    margin: 0 auto;
+
+    li {
+      display: inline-block;
+    }/*li*/
+  }/*inner*/
+
+  h6 {
+    display: inline-block;
+    vertical-align: top;
+    padding: 0 0 0 40px;
+
+  }/*h6*/
+
+  h4  {
+    vertical-align: top;
+
+  }
+
+  h1 {
+    display: inline-block;
+    margin: 0;
+    padding: 0 0 0 20px;
+    vertical-align: top;
+
+  }/*h1*/
+
+  .shark-tank {
+    padding: 0 5%;
+    vertical-align: top;
+  }
+
+  .buy-now, .hamburger-menu {
+    vertical-align: top;
+    text-align: center;
+
+    a {
+      color: white;
+      text-decoration: none;
+      font-family: "open-sans", sans-serif;
+      font-size: 18px;
+      text-align: center;
+
+    }
+
+    .buy-button {
+      color: black;
+
+    }
+
+  }
+
+  .buy-button {
+    background: #fff000;
+    color: black;
+    text-decoration: none;
+    font-family: "open-sans", sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    text-transform: uppercase;
+    padding: 9px 25px;
+    border-radius: 20px;
+    text-align: center;
+
+  }
+
+  .buy-button-shadow {
+    background: #ffae00;
+    height: 34px;
+    width: 138px;
+    padding: 10px 0 0 0;
+    border-radius: 20px;
+    margin: 0 0 10px 25px;
+
+  }
+
+  .hamburger-menu {
+    padding: 20px 0 0 5%;
+
+    i {
+      color: #d0e5e5;
+      font-size: 48px;
+
+    }/*i*/
+
+  }
+
+}/*header*/

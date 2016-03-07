@@ -1,0 +1,24 @@
+/* line 1, ../sass/font.scss */
+h4 {
+  font-family: 'adobe-garamond-pro', serif;
+  font-style: italic;
+  font-size: 20px;
+  color: white;
+  font-weight: 100;
+}
+
+/*h4*/
+/* line 9, ../sass/font.scss */
+h1 {
+  font-family: "myriad-pro", sans-serif;
+  font-size: 48px;
+  color: white;
+}
+
+/* line 15, ../sass/font.scss */
+h6 {
+  font-family: "futura-pt", sans-serif;
+  font-weight: 300;
+  color: white;
+  font-size: 13px;
+}

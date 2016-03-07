@@ -1,0 +1,98 @@
+/* line 1, ../sass/header.scss */
+* {
+  vertical-align: top;
+}
+
+/* line 6, ../sass/header.scss */
+#header {
+  vertical-align: top;
+  background: #4bb7b6;
+  width: 100%;
+  padding: 20px;
+  /*inner*/
+  /*h6*/
+  /*h1*/
+}
+/* line 12, ../sass/header.scss */
+#header .inner {
+  width: 60%;
+  margin: 0 auto;
+  /*li*/
+}
+/* line 16, ../sass/header.scss */
+#header .inner li {
+  display: inline-block;
+}
+/* line 21, ../sass/header.scss */
+#header h6 {
+  display: inline-block;
+  vertical-align: top;
+  padding: 0 0 0 40px;
+}
+/* line 28, ../sass/header.scss */
+#header h4 {
+  vertical-align: top;
+}
+/* line 33, ../sass/header.scss */
+#header h1 {
+  display: inline-block;
+  margin: 0;
+  padding: 0 0 0 20px;
+  vertical-align: top;
+}
+/* line 41, ../sass/header.scss */
+#header .shark-tank {
+  padding: 0 5%;
+  vertical-align: top;
+}
+/* line 46, ../sass/header.scss */
+#header .buy-now, #header .hamburger-menu {
+  vertical-align: top;
+  text-align: center;
+}
+/* line 50, ../sass/header.scss */
+#header .buy-now a, #header .hamburger-menu a {
+  color: white;
+  text-decoration: none;
+  font-family: "open-sans", sans-serif;
+  font-size: 18px;
+  text-align: center;
+}
+/* line 59, ../sass/header.scss */
+#header .buy-now .buy-button, #header .hamburger-menu .buy-button {
+  color: black;
+}
+/* line 66, ../sass/header.scss */
+#header .buy-button {
+  background: #fff000;
+  color: black;
+  text-decoration: none;
+  font-family: "open-sans", sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  text-transform: uppercase;
+  padding: 9px 25px;
+  border-radius: 20px;
+  text-align: center;
+}
+/* line 80, ../sass/header.scss */
+#header .buy-button-shadow {
+  background: #ffae00;
+  height: 34px;
+  width: 138px;
+  padding: 10px 0 0 0;
+  border-radius: 20px;
+  margin: 0 0 10px 25px;
+}
+/* line 90, ../sass/header.scss */
+#header .hamburger-menu {
+  padding: 20px 0 0 5%;
+  /*i*/
+}
+/* line 93, ../sass/header.scss */
+#header .hamburger-menu i {
+  color: #d0e5e5;
+  font-size: 48px;
+}
+
+/*header*/
